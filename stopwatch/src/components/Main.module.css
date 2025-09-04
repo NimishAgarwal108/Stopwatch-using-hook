@@ -1,0 +1,12 @@
+.main-container{
+  text-align: center;
+  font-size: 50px;
+  background-image: url('../images/bgm-image.jpg'); /* path relative to CSS file */
+  background-size: cover;  
+  background-position: center; 
+  width: 100vw;     /* full viewport width */
+  margin:0;
+  padding: 0;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
