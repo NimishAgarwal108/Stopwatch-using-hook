@@ -34,7 +34,7 @@ function App() {
     <br />
      <button style={{fontSize:'50px',borderRadius:'10px',marginBottom:'30px', backgroundColor:'red'}} onClick={stopTimer}>stop</button>
      <br />
-      <button style={{fontSize:'50px',borderRadius:'10px',backgroundColor:'blue'}} onClick={resetTimer}>Reset</button>
+      <button style={{fontSize:'50px',borderRadius:'10px',backgroundColor:'orange'}} onClick={resetTimer}>Reset</button>
 
     </div>
 
